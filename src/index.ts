@@ -55,3 +55,4 @@ main().catch((err) => {
   log.fatal({ err }, 'Failed to start relayer');
   process.exit(1);
 });
+// eWei Relayer Node v1.2.0
