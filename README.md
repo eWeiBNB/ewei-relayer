@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/eWeiBNB/ewei-relayer/main/assets/logo.png" alt="eWei" width="120" />
+</div>
+
 # eWei Relayer Node
 
 Open-source relay node for the [eWei gas sponsorship protocol](https://github.com/eWeiBNB/ewei-sdk) on BNB Smart Chain. The relayer accepts sponsored meta-transactions, validates them against on-chain policies, and submits them to the network on behalf of users who don't hold BNB for gas.
